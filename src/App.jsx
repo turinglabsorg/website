@@ -99,7 +99,7 @@ function App() {
         <section id="contacts">
           <h1>Contact us.</h1>
           <p style={{textAlign:"left", fontSize:"25px", lineHeight:"30px"}}>
-            Drop us a line at<br></br><a href="mailto:finance@turinglabs.org">finance.turinglabs.org</a>
+            Drop us a line at<br></br><a href="mailto:finance@turinglabs.org">finance@turinglabs.org</a>
           </p>
           <hr></hr>
           <p className="small">
