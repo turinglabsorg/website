@@ -20,26 +20,21 @@ function App() {
           <h1>We are <span class="primary-color">turinglabs</span><br />we build innovation<br />with passion.</h1>
           <p>
             Since our birth, in late 2015, we build tecnological innovation across the globe.<br />
-            We've worked with a lot of people and startups in different areas (SaaS, e-commerce, CRM, etc)<br />but now we're mainly focused on building <i>blockchain-based</i> projects.<br></br>
-            We love open-source projects and we try to support everyone needs a concrete help.<br></br>
-            Bitcoin is our currency and you should use it too.
+            We've worked with a lot of people and startups in different areas (SaaS, e-commerce, CRM, etc)<br />but now we're mainly focused on building <i>blockchain-based</i> projects.
           </p>
         </section>
 
         <section id="projects">
-          <h1>Projects we're involved on at the moment.</h1>
+          <h1 style={{textAlign: "left"}}>
+            These are some of the projects we're involved right now.<br></br>
+            If you want to have an idea on what we do daily just jump to our <a href="https://github.com/turinglabsorg" rel="noreferrer" target="_blank">GitHub</a>.
+          </h1>
           <div class="terminal-timeline">
             <div class="terminal-card">
               <header>Scrypta Blockchain</header>
               <div>
                 We're actively working with <a href="https://scrypta.foundation" rel="noreferrer" target="_blank">Scrypta Foundation</a> building all its open-source projects.<br></br>
                 Scrypta goal is to create a powerful decentralized network to run immutable and censorhip-resistant applications.
-              </div>
-            </div>
-            <div class="terminal-card">
-              <header>Tatum</header>
-              <div>
-                <a href="https://tatum.io/" rel="noreferrer" target="_blank">Tatum</a> is an open-source API to build blockchain based application as faster as possible. We support them as <i>ambassadors</i> trying to share their platform and adding new supported blockchains.
               </div>
             </div>
             <div class="terminal-card">
@@ -52,6 +47,12 @@ function App() {
               <header>TheHUB</header>
               <div>
                 <a href="https://thehub.host" rel="noreferrer" target="_blank">TheHUB</a> is a new generation hosting provider focused on blockchain products. It allows the creation and maintenance of multiple full-nodes instances allowing developers create their own infrastructure in minutes and using multiple providers to maintain decentralization. It can be used even to create staking nodes and masternodes without having technical knowledge.
+              </div>
+            </div>
+            <div class="terminal-card">
+              <header>Tatum</header>
+              <div>
+                <a href="https://tatum.io/" rel="noreferrer" target="_blank">Tatum</a> is an open-source API to build blockchain based application as faster as possible. We support them as <i>ambassadors</i> trying to share their platform and adding new supported blockchains.
               </div>
             </div>
           </div>
