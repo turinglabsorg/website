@@ -31,6 +31,12 @@ function App() {
           </h1>
           <div className="terminal-timeline">
             <div className="terminal-card">
+              <header>NFT Studio</header>
+              <div>
+                <a href="https://nftstud.io" rel="noreferrer" target="_blank">NFT Studio</a> is an open-collective of artists and technologists that creates a new kind of art. NFT Studio creates an ensemble of experiences, emotions and sensations for artists of international level, making them free to express their art outside the rigid schemes of gallery owners and producers. <br></br>
+              </div>
+            </div>
+            <div className="terminal-card">
               <header>Scrypta Blockchain</header>
               <div>
                 We're actively working with <a href="https://scrypta.foundation" rel="noreferrer" target="_blank">Scrypta Foundation</a> building all its open-source projects.<br></br>
@@ -90,7 +96,7 @@ function App() {
               </tr>
               <tr>
                 <td>Ethereum / Solidity</td>
-                <td style={{width:"150px", textAlign: "center"}}>4 / 10</td>
+                <td style={{width:"150px", textAlign: "center"}}>7 / 10</td>
               </tr>
             </tbody>
           </table>
