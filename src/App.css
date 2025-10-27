@@ -28,17 +28,21 @@ body {
 
 body,
 html {
-  background-color: #000;
+  background-color: #222222 !important;
 }
 
 .App {
-  background-color: #000;
+  background-color: #222222 !important;
   min-height: 100vh;
 }
 
 #about {
   text-align: left;
-  padding: 20px 0 0 0;
+  padding: 10px 0 0 0;
+}
+
+#contacts {
+  margin-top: -20px;
 }
 
 th,
@@ -79,6 +83,52 @@ td {
   }
 }
 
+/* Resume Section Styles */
+#resume {
+  text-align: left;
+  padding: 20px 0;
+}
+
+.resume-entry {
+  margin-bottom: 30px;
+  padding: 15px 0;
+  border-left: 3px solid var(--primary-color);
+  padding-left: 20px;
+}
+
+.resume-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+
+.resume-header h3 {
+  margin: 0;
+  color: var(--primary-color);
+  font-size: 24px;
+}
+
+.resume-date {
+  color: #888;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.resume-company {
+  margin: 5px 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.resume-description {
+  margin: 10px 0 0 0;
+  line-height: 1.6;
+  color: #ccc;
+}
+
 @media screen and (max-width:768px) {
   .terminal-menu {
     display: none;
@@ -87,5 +137,19 @@ td {
   #about h1 {
     font-size: 42px;
     line-height: 42px;
+  }
+  
+  .resume-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .resume-header h3 {
+    font-size: 20px;
+  }
+  
+  .resume-date {
+    font-size: 14px;
+    margin-top: 5px;
   }
 }
