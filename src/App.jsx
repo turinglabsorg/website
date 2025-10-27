@@ -177,7 +177,7 @@ function App() {
             details.
           </h1>
           <p
-            style={{ textAlign: "left", fontSize: "25px", lineHeight: "30px" }}
+            style={{ textAlign: "left" }}
           >
             Drop a line at{" "}
             <a href="mailto:seb@turinglabs.org">seb@turinglabs.org</a>
