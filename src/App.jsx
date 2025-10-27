@@ -180,7 +180,7 @@ function App() {
             style={{ textAlign: "left" }}
           >
             Drop a line at{" "}
-            <a href="mailto:seb@turinglabs.org">seb@turinglabs.org</a>
+            <a href="mailto:seb@turinglabs.org">seb@turinglabs.org</a> or a message on <a href="https://t.me/turinglabs" rel="noopener noreferrer" target="_blank">Telegram</a>.
           </p>
           <hr></hr>
           <p className="small">
