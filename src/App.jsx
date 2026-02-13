@@ -113,41 +113,6 @@ function App() {
               Vera3
             </a>
             <br></br>
-            <br></br>I've also co-founded several projects, including:
-            <br></br>
-            <br></br>-{" "}
-            <a
-              href="https://blockpos.xyz"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Block!POS
-            </a>
-            <br></br>-{" "}
-            <a
-              href="https://yomi.digital"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              YOMI
-            </a>
-            <br></br>-{" "}
-            <a
-              href="https://niftyz.io"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Niftyz
-            </a>
-            <br></br>-{" "}
-            <a
-              href="https://mego.tickets"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              MEGO Tickets
-            </a>
-            <br></br>
             <br></br>
             I'm building open source AI agents and blockchain tools:
             <br></br>
