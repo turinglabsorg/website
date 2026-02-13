@@ -29,6 +29,7 @@ body {
 body,
 html {
   background-color: #222222 !important;
+  font-family: "JetBrains Mono", monospace !important;
 }
 
 .App {

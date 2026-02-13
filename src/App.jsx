@@ -149,6 +149,53 @@ function App() {
             </a>
             <br></br>
             <br></br>
+            I'm building open source AI agents and blockchain tools:
+            <br></br>
+            <br></br>-{" "}
+            <a
+              href="https://github.com/turinglabsorg/grog"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Grog
+            </a>{" "}
+            — an autonomous GitHub issue solver. Point it at an issue, and it
+            uses Claude to analyze code, implement fixes, and open pull requests
+            without human intervention.
+            <br></br>-{" "}
+            <a
+              href="https://github.com/turinglabsorg/openbowie"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              OpenBowie
+            </a>{" "}
+            — an autonomous agent that runs in Docker containers, connecting LLM
+            providers with MCP servers. Give it a task, and it builds a roadmap
+            and executes autonomously. Built in Go and Python.
+            <br></br>-{" "}
+            <a
+              href="https://github.com/turinglabsorg/wachi"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Wachi
+            </a>{" "}
+            — a blockchain transaction OSINT tool built in Rust. It traces fund
+            flows, identifies contracts, profiles addresses, and follows the
+            money across chains. Runs as an MCP server, powered by alloy-rs.
+            <br></br>-{" "}
+            <a
+              href="https://github.com/turinglabsorg/mollie"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Mollie
+            </a>{" "}
+            — a high-performance Rust CLI that derives Ethereum addresses from
+            BIP39 mnemonics and checks balances across Ethereum, Base, and
+            Arbitrum simultaneously using parallel processing.
+            <br></br>
             <br></br>
             Since we entered this AI era, I've been studying AI ethics by
             reading tons of books, and understood that my position in this area
